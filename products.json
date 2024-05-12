@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Coffee",
+      "price": 1.75,
+      "inStock": 50
+    },
+    {
+      "name": "Tea",
+      "price": 1.5,
+      "inStock": 50
+    },
+    {
+      "name": "Apple juice",
+      "price": 1.25,
+      "inStock": 30
+    },
+    {
+      "name": "Hot dog",
+      "price": 2,
+      "inStock": 20
+    },
+    {
+      "name": "Ice cream",
+      "price": 1.45,
+      "inStock": 30
+    },
+    {
+      "name": "Chocolate",
+      "price": 1,
+      "inStock": 30
+    }
+]
