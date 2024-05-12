@@ -86,10 +86,6 @@ do {
                     $item -> amount = $userAmountChoice;
                     $cart[] = $item;
                 }
-
-                var_dump($cart);
-                var_dump($products[$userProductChoice-1]->name);
-                var_dump(in_array($products[$userProductChoice-1]->name, $cart));
                 $products[$userProductChoice-1]->inStock -= $userAmountChoice;
             }
             break;
